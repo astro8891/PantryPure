@@ -1,9 +1,14 @@
+.nav {
+	background-color: green;
+	height: 100px;
+}
+
 .image {
 	background-color: red;
-	height: 20px;
+	height: 680px;
 }
 
 .details {
 	background-color:  blue;
-	height:20px;
+	height:680px;
 }
