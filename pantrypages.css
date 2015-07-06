@@ -23,3 +23,43 @@ body {
     height: 90%;
 }
 
+.form {
+	margin-left: 5%;
+}
+
+.ProductTitle {
+	font-weight: bold;
+	font-size: 200%;
+}
+
+.ATCcart{
+	margin-left: 4px;
+}
+
+.sellerDetails{
+margin: 20px;
+}
+
+.sellerImage {
+	height: 60%;
+	width:60%;
+}
+
+.SellerSpeal{
+	font-size: 40%;
+	font-weight: normal;
+}
+
+.productImg{
+	margin-left: 30px;
+}
+
+.CartIcon {
+	float:right;
+	margin-bottom: 40px;
+	margin-right: 40px;
+}
+
+.CheckoutIconNav{
+	float: right;
+}
