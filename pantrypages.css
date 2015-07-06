@@ -1,31 +1,25 @@
-html, body {
-	height:100%;
+html,
+body {
+    height: 100%;
 }
+
 .nav {
-	background-color: green;
-	height: 15%;
-}
-
-.image {
-	background-color: red;
-}
-
-.details {
-	background-color:  blue;
+    height: 15%;
 }
 
 .border {
-	border: solid black 3px;
+    border: solid black 3px;
 }
 
-.max{
-	width: 100%;
+.max {
+    width: 100%;
 }
 
-.ten{
-	height: 100%;
+.ten {
+    height: 100%;
 }
 
-.nine{
-	height: 90%;
+.nine {
+    height: 90%;
 }
+
